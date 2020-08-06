@@ -1,0 +1,53 @@
+body {
+    background-color: lightblue;
+    margin-left:20px
+  }
+
+text{
+	font-size: 1.4em;
+}
+
+
+p{
+	font-size: 17px;
+}
+
+h2{
+	font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+  }
+
+input[type=text] {
+    
+    height: 17px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+input[type=password] {
+    height: 17px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+input[type=email] {
+    height: 17px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+input[type=submit] {
+    margin-left: 25px;
+    height: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+}
+p, div, input {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+}
